@@ -1,0 +1,12 @@
+C:\Users\T.I\Documents\Projetos\Novo\Api\Reactivities\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\T.I\Documents\Projetos\Novo\Api\Reactivities\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\T.I\Documents\Projetos\Novo\Api\Reactivities\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\T.I\Documents\Projetos\Novo\Api\Reactivities\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\T.I\Documents\Projetos\Novo\Api\Reactivities\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T.I\Documents\Projetos\Novo\Api\Reactivities\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\T.I\Documents\Projetos\Novo\Api\Reactivities\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\T.I\Documents\Projetos\Novo\Api\Reactivities\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\T.I\Documents\Projetos\Novo\Api\Reactivities\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\T.I\Documents\Projetos\Novo\Api\Reactivities\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\T.I\Documents\Projetos\Novo\Api\Reactivities\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\T.I\Documents\Projetos\Novo\Api\Reactivities\Domain\obj\Debug\net7.0\ref\Domain.dll
