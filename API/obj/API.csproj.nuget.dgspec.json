@@ -1,34 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\API\\API.csproj": {}
+    "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\API\\API.csproj": {
+    "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\T.I\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\API\\obj\\",
+        "projectPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\T.I\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\Application\\Application.csproj"
+              "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Application\\Application.csproj"
               }
             }
           }
@@ -77,21 +76,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\Application\\Application.csproj": {
+    "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\T.I\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\Application\\obj\\",
+        "projectPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\T.I\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -103,11 +102,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\Persistence\\Persistence.csproj"
+              "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -137,21 +136,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\T.I\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\T.I\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -190,21 +189,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\T.I\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\T.I\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -216,8 +215,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\T.I\\Documents\\Projetos\\Novo\\Api\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
@@ -253,7 +252,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
