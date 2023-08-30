@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dpxDwpmiXQDNroAtxnsMjEjJHSd717KtZI/Y6KvSH4hXKMMUx89p996w2rnum711navWtgd7OKEskDHXQ09KiA==",
+  "dgSpecHash": "BekX0n24O6bBQ/gkD+IPvMgce9xTQ4jKR1QLX+r2mOYu0Q4CL6KEqiVXClv66wdHDtlMur2em3Hre1wC46bfaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

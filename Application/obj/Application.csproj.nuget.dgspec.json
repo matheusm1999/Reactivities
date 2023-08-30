@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Application\\Application.csproj": {}
+    "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Application\\Application.csproj": {
+    "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Application\\obj\\",
+        "outputPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Persistence\\Persistence.csproj"
+              "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -117,14 +117,14 @@
         }
       }
     },
-    "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -139,8 +139,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\C#\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
