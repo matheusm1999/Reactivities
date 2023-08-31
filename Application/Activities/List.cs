@@ -1,7 +1,9 @@
 using Domain;
 using MediatR;
+using Microsoft.EntityFrameworkCore;
 using Persistence;
 
+//List all Activities in database
 namespace Application.Activities
 {
     public class List
