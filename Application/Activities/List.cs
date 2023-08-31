@@ -17,7 +17,7 @@ namespace Application.Activities
             }
             public async Task<List<Activity>> Handle(Query request, CancellationToken cancellationToken)
             {
-                throw new NotImplementedException();
+                return await _context.Activities.ToListAsync();
             }
         }
     }
