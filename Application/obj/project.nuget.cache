@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "E9qFVg/YOETLOckzmHLYxGo7JoKwOFXftueMTbx11Gy2AoqUeR+lSOGV4Gd/bBJIY33WdK41ON0mmtehXCHbuw==",
+  "dgSpecHash": "wg0pQzsgrx60+YB5bcLe/Yco66Bk5Yc1nRe1hpMuSOcE/oG/9MOZR/04WxEQ9FvrnyHp733mU4uuR89BOMzZfQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Matheus\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Matheus\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",

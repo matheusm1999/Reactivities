@@ -220,3 +220,5 @@ C:\Users\Matheus\Documents\Trabalho\Dev\Csharp\Reactivities\api\obj\Debug\net7.0
 C:\Users\Matheus\Documents\Trabalho\Dev\Csharp\Reactivities\api\obj\Debug\net7.0\API.pdb
 C:\Users\Matheus\Documents\Trabalho\Dev\Csharp\Reactivities\api\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\Users\Matheus\Documents\Trabalho\Dev\Csharp\Reactivities\api\obj\Debug\net7.0\ref\API.dll
+C:\Users\Matheus\Documents\Trabalho\Dev\Csharp\Reactivities\api\bin\Debug\net7.0\MediatR.dll
+C:\Users\Matheus\Documents\Trabalho\Dev\Csharp\Reactivities\api\bin\Debug\net7.0\MediatR.Contracts.dll

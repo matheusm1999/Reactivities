@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "tuYFlSG3sv1RwBZZGnwjBpYG+qMYLPoYiFGqsO2yFkGIyXLPCKuLnFcl3IiDipVR5dmPN4F6knmrhWL2iF7ilA==",
+  "dgSpecHash": "/0VFT7YZ/8Mds9LfvFDfdCACP2PILdfDVD2TwQOMCji3ljNSnCkCcu9BVkGjnA7IMm3xl7zDQaVjKMyZjykuUw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matheus\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Matheus\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Matheus\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
     "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
