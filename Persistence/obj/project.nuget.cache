@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JVaJoesTy2IjJrIHU6oFJmbr/cQVk+te+zSjedmMNUbmb2DV/sNNh9x+svi3gZROwlv2BAHenR3mP+DRoecusg==",
+  "dgSpecHash": "Y+fVhK5zJaYepgHlSjfjULFttHEGDkliAJL8VoeXn4M8Gd6Oil3DSXDzTIWDNoow7E7R0QTQXWoyGGT2SEawmA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
@@ -29,5 +29,12 @@
     "C:\\Users\\Matheus\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\Matheus\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Persistence\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

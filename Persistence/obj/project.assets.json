@@ -1155,11 +1155,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "c:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1214,5 +1214,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Persistence\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

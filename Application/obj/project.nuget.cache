@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vv9EVe/7xQ6PoOK3W4D5Ady8tAnS81WTmyOseHd4Zuuz2VZghpLBDHOktnRmHs02PQfb8nb3PTYClD3V+PsWhw==",
+  "dgSpecHash": "wg0pQzsgrx60+YB5bcLe/Yco66Bk5Yc1nRe1hpMuSOcE/oG/9MOZR/04WxEQ9FvrnyHp733mU4uuR89BOMzZfQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
@@ -31,5 +31,12 @@
     "C:\\Users\\Matheus\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\Matheus\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\Matheus\\Documents\\Trabalho\\Dev\\Csharp\\Reactivities\\Application\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
