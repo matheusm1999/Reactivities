@@ -1,3 +1,4 @@
+using AutoMapper;
 using Domain;
 using MediatR;
 using Persistence;
@@ -14,17 +15,22 @@ namespace Application.Activities
         public class Handler : IRequestHandler<Command>
         {
             private readonly DataContext _context;
-            public Handler(DataContext context)
+            private readonly IMapper _mapper;
+            
+            public Handler(DataContext context, IMapper mapper)
             {
+                _mapper = mapper;
                 _context = context;
             }
 
             public async Task Handle(Command request, CancellationToken cancellationToken)
             {
                 var activity = await _context.Activities.FindAsync(request.Activity.Id);
-                //If title is null, set 
-                activity.Title = request.Activity.Title ?? activity.Title;
+                
+                //Update the properties of activity based on the request.Activity
+                _mapper.Map(request.Activity,activity);
 
+                await _context.SaveChangesAsync();
             }
         }
     }
